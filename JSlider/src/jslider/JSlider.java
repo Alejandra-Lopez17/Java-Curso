@@ -7,7 +7,7 @@ package jslider;
 
 /**
  *
- * @author mauricio
+ * @author mario
  */
 public class JSlider {
 
